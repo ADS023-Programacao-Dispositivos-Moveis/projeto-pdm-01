@@ -6,7 +6,8 @@ Repositório para a disciplina de Programação para Dispositivos Móveis
 <br>
 
 # Exercício: Criando um Repositório no GitHub
-#### Dsta de Entrega: 05/03/2025 - 21:41
+#### Data de Entrega: 05/03/2025 - 21:41
+
 
 ## Objetivo
 
