@@ -17,7 +17,7 @@ A proposta deste projeto é criar um app que seja caapaz de auxiliar os barbeiro
 
 
 ### Clientes Reais
-- [@Barbearia do Padrin](- [@Barbearia do Padrin](https://www.instagram.com/barbeariadopadrin/)
+- [INstagram - Barbearia do Padrin](https://www.instagram.com/barbeariadopadrin/)
 
 ### Features do Produto
 - [x] Login
