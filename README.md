@@ -38,7 +38,7 @@ A proposta deste projeto é criar um app que seja caapaz de auxiliar os barbeiro
 - [GraphQL](http://docs.github.com/en/graphql)
 - [Expo](https://expo.dev/)
 - [React Navigation](https://reactnavigation.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
+- [Papper](https://reactnativepaper.com/)
 - [Material Design Icons](https://m3.material.io/styles/icons/overview)
 
 
