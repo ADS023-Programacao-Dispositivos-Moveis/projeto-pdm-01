@@ -25,9 +25,8 @@ A proposta deste projeto é criar um app que seja caapaz de auxiliar os barbeiro
 - [x] Gestão de Clientes
 - [x] Gestão de Barbeiros
 - [x] Gestão de Serviços
-- [x] Gestão de Planos
-- [x] Listagem de Serviços
 - [x] Agendamento de Serviços
+- [x] Gestão de Planos
 - [x] Listagem de Agendamentos
 - [x] Listagem de Clientes
 - [x] Listagem de Planos
