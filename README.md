@@ -41,4 +41,29 @@ A proposta deste projeto é criar um app que seja caapaz de auxiliar os barbeiro
 - [Paper](https://reactnativepaper.com/)
 - [Material Design Icons](https://m3.material.io/styles/icons/overview)
 
+---
+
+# Requisitos do Projeto
+## Estrutura do Projeto
+
+    /app-barbearia
+    ├── App.js
+    └── src
+        ├── navigation
+        │   ├── StackNavigator.js
+        │   └── TabNavigator.js
+        └── screens
+            ├── DashboardScreen.js
+            ├── PerfilScreen.js
+            └── Auth
+                └── LoginScreen.js
+
+
+Prezados alunos,
+Seguem as instruções para a entrega do projeto da Prova A2. O objetivo é desenvolver um aplicativo
+móvel com tema livre, aplicando os conhecimentos adquiridos ao longo do semestre. Durante a
+apresentação, serão avaliados o domínio do assunto e a competência na implementação.
+
+
+
 
